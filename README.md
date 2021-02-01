@@ -11,6 +11,8 @@ git add .
 git commin -m "Veiktas izmaiņas!"
 git push origin main 
 
+git status # uzzinat kads ir status
+
 git config --global user.email "v@v.lv"
 git config --global user.name "marly"
 
